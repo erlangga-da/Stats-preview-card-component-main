@@ -72,7 +72,8 @@ body {
   color: var(--soft-violet);
 }
 .card-text p {
-  font-family: "Lexend Deca", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
   margin: 25px 0px;
   margin-bottom: 70px;
   line-height: 25px;
@@ -95,5 +96,6 @@ body {
 .counter span {
   font-size: 14px;
   font-family: "Lexend Deca", sans-serif;
+  text-transform: uppercase;
   color: var(--slightly-transparent-white-stat);
 }
