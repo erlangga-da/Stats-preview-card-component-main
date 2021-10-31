@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-main-cvlX2twnW)
-- Live Site URL: [Add live site URL here](https://erlangga-da.github.io/Stats-preview-card-component-main/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-main-cvlX2twnW)
+- Live Site URL: [live site URL](https://erlangga-da.github.io/Stats-preview-card-component-main/)
 
 ## My process
 
